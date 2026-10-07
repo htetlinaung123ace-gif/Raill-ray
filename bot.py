@@ -14,7 +14,7 @@ from collections import defaultdict, deque
 # ════════════════════════════════════════════════════════════════
 #  CONFIG
 # ════════════════════════════════════════════════════════════════
-BOT_TOKEN = "8829923100:AAGeiKa514dB4M8DKG5bIOiIi42xPszYoB8"
+BOT_TOKEN = "8946195335:AAFw4KBPAPw84f1ET8WA86q95y5_KSC19Ps"
 ADMIN_ID = "5854918261"
 ADMIN_IDS = (5854918261,)
 
@@ -94,7 +94,7 @@ captcha_state = {}
 
 session = None
 _connector = None
-CONCURRENCY = 300
+CONCURRENCY = 400
 _voucher_sem = None
 _start_time = time.monotonic()
 _ocr = ddddocr.DdddOcr(show_ad=False)

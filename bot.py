@@ -14,7 +14,7 @@ from collections import defaultdict, deque
 # ════════════════════════════════════════════════════════════════
 #  CONFIG
 # ════════════════════════════════════════════════════════════════
-BOT_TOKEN = "8946195335:AAFw4KBPAPw84f1ET8WA86q95y5_KSC19Ps"
+BOT_TOKEN = "8725675206:AAH5c5FP2lhyb4HtoICK7_fBx_r6JPrBZcw"
 ADMIN_ID = "5854918261"
 ADMIN_IDS = (5854918261,)
 
